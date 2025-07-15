@@ -482,6 +482,7 @@
 
     .profile-card {
       padding: 2rem;
+      width: 100%;
     }
 
     .profile-info table {
@@ -537,6 +538,18 @@
       padding: 0.6rem;
     }
 
+   .video-container{
+    width: 100%;
+   }
+
+   .goods-card{
+    width: 100%;
+   }
+
+   #gallery{
+    width: 100%;
+   }
+
     .swiper-slide img {
       height: 60vw;
       max-height: 400px;
@@ -547,6 +560,8 @@
     .swiper-button-prev,
     .swiper-button-next {
       display: none;
+
+     
     }
 
   }
