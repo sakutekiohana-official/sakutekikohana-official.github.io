@@ -538,17 +538,19 @@
       padding: 0.6rem;
     }
 
-   .video-container{
-    width: 100%;
-   }
-
-   .goods-card{
-    width: 100%;
-   }
-
-   #gallery{
-    width: 100%;
-   }
+  .profile-card,
+  .goods-card,
+  .video-container,
+  .gallery-container {
+    width: 100vw;
+    border-radius: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-left: -1rem;
+    margin-right: -1rem;
+    border-left: none;
+    border-right: none;
+    border-radius: 0;
 
     .swiper-slide img {
       height: 60vw;
