@@ -555,7 +555,7 @@
     width: 100%;
     max-width: none;
     margin: 0;
-    border-radius:
+    border-radius: 0;
     padding: 2rem 1rem;
     box-shadow: none;
   }
